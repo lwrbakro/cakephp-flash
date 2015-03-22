@@ -17,7 +17,9 @@
         },
         "installer-name": "Flash"
     },
-    "psr-4": {
-        "Flash\\": ""
+    "autoload": {
+        "psr-4": {
+            "Flash\\": ""
+        }
     }
 }
