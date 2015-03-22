@@ -10,5 +10,10 @@
             "name": "Mirko Chialastri",
             "email": "chialastri.mirko@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Flash\\": "src"
+        }
+    }
 }
