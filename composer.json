@@ -1,0 +1,14 @@
+{
+    "name": "hiryu85/cakephp-flash",
+    "type": "cakephp-plugin",
+    "description": "CakePHP Flash component for Twitter bootstrap, Alertify",
+    "require": {
+        "cakephp/plugin-installer": "0.0.11.*"
+    },
+    "authors": [
+        {
+            "name": "Mirko Chialastri",
+            "email": "chialastri.mirko@gmail.com"
+        }
+    ]
+}
