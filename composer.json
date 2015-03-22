@@ -16,5 +16,8 @@
         "branch-alias": {
         },
         "installer-name": "Flash"
+    },
+    "psr-4": {
+        "Flash\\": ""
     }
 }
