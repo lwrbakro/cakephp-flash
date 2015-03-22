@@ -4,7 +4,7 @@
     "description": "CakePHP Flash component for Twitter bootstrap, Alertify",
     "keywords": ["cakephp", "flash", "session", "alertify", "twitter-bootstrap"],
     "require": {
-        "cakephp/plugin-installer": "*"
+        "composer/installers": "*"
     },
     "authors": [
         {
