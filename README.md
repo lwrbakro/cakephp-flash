@@ -3,6 +3,10 @@
 > Use Cake's flash message with Twitter Bootstrap or Alertify
 
 
+## Requirement
+
+CakePHP 2.x
+
 
 ## Install
 
